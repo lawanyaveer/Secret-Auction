@@ -1,4 +1,6 @@
 # Secret Auction
+![image](https://user-images.githubusercontent.com/112944303/221812590-2d0a95be-a403-46d0-a222-dd6d49c02433.png)
+
 - This project is a Python-based implementation of a secret auction program. 
 - The program enables users to conduct a secret auction, where bidders submit their bids without knowing the other bidders' offers. The highest bidder at the end of the auction wins the item or service being auctioned.
 
